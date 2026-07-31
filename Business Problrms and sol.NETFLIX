@@ -1,6 +1,25 @@
 ## Bussiness Problems
 ```sql
+ Create table if not exists netflix(
+   show_id varchar(6),
+   show_type varchar(10),
+   title varchar(150),
+   director varchar(210),
+   casts varchar(1000),
+   country varchar(150),
+   date_added varchar(50),
+    release_year int ,
+   rating varchar(10),
+   duration varchar(15),
+   listed_in varchar(100),
+   description varchar(300)
+      );
 
+Select * from netflix;
+
+
+
+--Bussiness Problems--
 
 --1) Count the no.of Movies vs TV Shows
 
@@ -119,6 +138,11 @@
 		 else 'GOOD'
 		 end category
 	  from netflix
+	  
+
+
+
+	
 ```
 
 ---
