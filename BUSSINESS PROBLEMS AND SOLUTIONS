@@ -1,7 +1,6 @@
-## Real-World Business Problems & Solutions
-
+## Bussiness Problems
 ```sql
---Solved 12 business Problems--
+
 
 --1) Count the no.of Movies vs TV Shows
 
@@ -120,10 +119,4 @@
 		 else 'GOOD'
 		 end category
 	  from netflix
-	  
-
-
-
-	  
-    
 ```
