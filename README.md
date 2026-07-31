@@ -13,9 +13,8 @@ This project analyzes the Netflix Movies & TV Shows dataset from Kaggle using **
 - Demonstrate PostgreSQL skills on a real-world dataset.
 
 ---
-
 ## Dataset
- Dataset link ![](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+ ![link](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 ---
 
 ## SQL Concepts Used
