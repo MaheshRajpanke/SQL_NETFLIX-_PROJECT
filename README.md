@@ -14,7 +14,7 @@ This project analyzes the Netflix Movies & TV Shows dataset from Kaggle using **
 
 ---
 ## Dataset
- ![link](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+ [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 ---
 
 ## SQL Concepts Used
