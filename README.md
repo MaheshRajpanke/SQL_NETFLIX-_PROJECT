@@ -168,7 +168,7 @@ CREATE TABLE IF NOT EXISTS netflix (
 		 end category
 	  from netflix
 ```
-## 📊 Business Insights
+## Business Insights
 
 - Analyzed the distribution of Movies and TV Shows to understand Netflix's overall content strategy.
 - Identified the most common maturity ratings to uncover audience preferences and content classification patterns.
