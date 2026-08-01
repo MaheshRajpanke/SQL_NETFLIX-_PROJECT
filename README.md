@@ -168,6 +168,16 @@ CREATE TABLE IF NOT EXISTS netflix (
 		 end category
 	  from netflix
 ```
+## Business Insight
+--Analyzed Netflix's content mix to understand platform focus across Movies and TV Shows.
+--Identified audience-targeted maturity ratings to uncover content classification patterns.
+--Explored year-wise content releases to evaluate production and release trends.
+--Discovered top content-producing countries, highlighting Netflix's strongest regional markets.
+--Examined movie durations and long-running TV series to understand viewer engagement opportunities.
+--Assessed catalog freshness by analyzing content added over the last decade.
+--Performed genre analysis to identify dominant content categories and support strategic content planning.
+--Evaluated data quality by detecting missing metadata such as director information.
+--Built a keyword-based content classification model to categorize titles into family-friendly and mature-content segments, enabling better content governance and   audience targeting.
 
 ---
 
